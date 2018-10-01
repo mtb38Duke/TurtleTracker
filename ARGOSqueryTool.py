@@ -34,4 +34,4 @@ obsLat = lineData[5]                # Observation Latitude
 obsLon = lineData[6]                # Observation Longitude
 
 # Print information to the user
-print ("Record {0} indicates Sara was seen at {1}N and {2}W on {3}".format(recordID, obsLat,obsLat,obsDate))
+print ("Record {0} indicates Sara was seen at {1}N and {2}W on {3}".format(recordID, obsLon,obsLat,obsDate))
